@@ -1,5 +1,4 @@
-# Course Title: Computational Electromagnetics and Plasma Physics
-### (PHY653/PC716)
+# PHY653/PC716: Computational Electromagnetics and Plasma Physics
 
 Instructor: Pakorn Wongwaitayakornkul
 
