@@ -1,5 +1,5 @@
 # Course Title: Computational Electromagnetics and Plasma Physics
-(PHY653/PC716)
+### (PHY653/PC716)
 
 Instructor: Pakorn Wongwaitayakornkul
 
@@ -9,5 +9,5 @@ This course offers an in-depth exploration of computational methods in electroma
 ## Course Materials:
 | Lecture | Description |
 | --- | ----------- |
-| [1](../lab1) | Python Basics and Particle Projectile Simulation |
-| [2](../lab2) | Time Integration Methods |
+| 1 | [Python Basics and Particle Projectile Simulation](https://github.com/tpakorn/pc716/blob/main/code_lab/lab1/lecture1.ipynb) |
+| 2 | [Time Integration Methods](https://github.com/tpakorn/pc716/blob/main/code_lab/lab2/lecture2.ipynb) |
