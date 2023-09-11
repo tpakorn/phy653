@@ -10,3 +10,4 @@ This course offers an in-depth exploration of computational methods in electroma
 | --- | ----------- |
 | 1 | [Python Basics and Particle Projectile Simulation](https://github.com/tpakorn/pc716/blob/main/code_lab/lab1/lecture1.ipynb) |
 | 2 | [Time Integration Methods and Lorentz Motion](https://github.com/tpakorn/pc716/blob/main/code_lab/lab2/lecture2.ipynb) |
+| 3 | [Motion of a Single Plasma Particle](https://github.com/tpakorn/pc716/blob/main/code_lab/lab3/lecture3.ipynb) |
