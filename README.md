@@ -11,3 +11,5 @@ This course offers an in-depth exploration of computational methods in electroma
 | 1 | [Python Basics and Particle Projectile Simulation](https://github.com/tpakorn/pc716/blob/main/code_lab/lab1/lecture1.ipynb) |
 | 2 | [Time Integration Methods and Lorentz Motion](https://github.com/tpakorn/pc716/blob/main/code_lab/lab2/lecture2.ipynb) |
 | 3 | [Motion of a Single Plasma Particle](https://github.com/tpakorn/pc716/blob/main/code_lab/lab3/lecture3.ipynb) |
+| 4 | [Finite Difference Method for Electromagnetic Fields](https://github.com/tpakorn/pc716/blob/main/code_lab/lab4/lecture4.ipynb) |
+| 5 | [Many Particles Systems](https://github.com/tpakorn/pc716/blob/main/code_lab/lab5/lecture5.ipynb) |
