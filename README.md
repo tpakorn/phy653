@@ -20,4 +20,4 @@ This course offers an exploration of computational methods used in studying elec
 
 1. Bellan, Paul M. Fundamentals of plasma physics. Cambridge university press, 2008.
 2. Sadiku, Matthew NO. Numerical techniques in electromagnetics. CRC press, 2000.
-3. Philip Mocz, *Create Your Own Plasma PIC Simulation (With Python)*, Medium 2020.
+3. Mocz, P, Create Your Own Plasma PIC Simulation (With Python), Medium 2020.
