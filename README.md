@@ -15,3 +15,9 @@ This course offers an exploration of computational methods used in studying elec
 | 3 | [Motion of a Single Plasma Particle](https://github.com/tpakorn/phy653/blob/main/code_lab/lab3/lecture3.ipynb) | ![Banner 3](banners/chap3-magnetic_mirror.png) |
 | 4 | [Finite Difference Method for Electromagnetic Fields](https://github.com/tpakorn/phy653/blob/main/code_lab/lab4/lecture4.ipynb) | ![Banner 4](banners/chap4-interference.png) |
 | 5 | [Many Particles Systems](https://github.com/tpakorn/phy653/blob/main/code_lab/lab5/lecture5.ipynb) | ![Banner 5](banners/chap5-nbody.png) |
+
+## References:
+
+1. Bellan, Paul M. Fundamentals of plasma physics. Cambridge university press, 2008.
+2. Sadiku, Matthew NO. Numerical techniques in electromagnetics. CRC press, 2000.
+3. Philip Mocz, *Create Your Own Plasma PIC Simulation (With Python)*, Medium 2020.
