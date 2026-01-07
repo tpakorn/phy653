@@ -1,8 +1,8 @@
 # PHY653: Computational Electromagnetics and Plasma Physics
 
-- Semester: 2024/1
+- Semester: 2025/2
 - Instructor: Pakorn Wongwaitayakornkul, PhD.
-- Location: Computer Room LC4, Thammasat University, Rangsit Campus
+- Location: LC4-205, Thammasat University, Rangsit Campus
 
 ## Course Description:
 This course offers an exploration of computational methods used in studying electromagnetism and plasma physics, focusing on solving differential equations, simulating electromagnetic field interactions with charged particles, and investigating wave-particle interactions. Students will gain hands-on experience through computational labs using Jupyter Python notebooks to implement and solve problems related to the topics discussed in lectures. The course schedule is as follows:
